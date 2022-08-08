@@ -8,6 +8,7 @@ const project = new awscdk.AwsCdkTypeScriptApp({
   projenrcTs: true,
 
   deps: ['@cloudcomponents/cdk-dynamodb-seeder@^2.1.0'],
+  devDeps: ['aws-sdk'],
 
   eslint: true,
   prettier: true,

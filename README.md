@@ -46,3 +46,4 @@ Need to write Glue ETL job code + failure and retry handling code.
 #### Misc
 
 * glue ETL job: <https://gist.github.com/Visya/adc0a55335490e3b8c95432f65139267>
+* schedule trigger: <https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_glue.CfnTrigger.html>, <https://medium.com/tysonworks/managed-etl-using-aws-glue-and-spark-62a92292f19d>

@@ -25,6 +25,10 @@
       "type": "build"
     },
     {
+      "name": "aws-sdk",
+      "type": "build"
+    },
+    {
       "name": "esbuild",
       "type": "build"
     },

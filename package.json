@@ -22,7 +22,8 @@
     "test:watch": "npx projen test:watch",
     "upgrade": "npx projen upgrade",
     "watch": "npx projen watch",
-    "projen": "npx projen"
+    "projen": "npx projen",
+    "cdk": "cdk"
   },
   "devDependencies": {
     "@types/jest": "^28.1.6",
@@ -30,6 +31,7 @@
     "@typescript-eslint/eslint-plugin": "^5",
     "@typescript-eslint/parser": "^5",
     "aws-cdk": "^2.35.0",
+    "aws-sdk": "^2.1189.0",
     "esbuild": "^0.14.53",
     "eslint": "^8",
     "eslint-config-prettier": "^8.5.0",
